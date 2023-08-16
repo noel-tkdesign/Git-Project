@@ -56,8 +56,8 @@
 				F040D7A82A8C4F260050B37D /* Git_ProjectApp.swift */,
 				F040D7AA2A8C4F260050B37D /* ContentView.swift */,
 				F040D7AC2A8C4F270050B37D /* Assets.xcassets */,
-				F040D7AE2A8C4F270050B37D /* Preview Content */,
 				F040D7B62A8C52C40050B37D /* ModalView.swift */,
+				F040D7AE2A8C4F270050B37D /* Preview Content */,
 			);
 			path = "Git Project";
 			sourceTree = "<group>";
