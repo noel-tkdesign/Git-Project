@@ -11,6 +11,7 @@
 		F040D7AB2A8C4F260050B37D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F040D7AA2A8C4F260050B37D /* ContentView.swift */; };
 		F040D7AD2A8C4F270050B37D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F040D7AC2A8C4F270050B37D /* Assets.xcassets */; };
 		F040D7B02A8C4F270050B37D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F040D7AF2A8C4F270050B37D /* Preview Assets.xcassets */; };
+		F040D7B72A8C52C40050B37D /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F040D7B62A8C52C40050B37D /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F040D7AA2A8C4F260050B37D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F040D7AC2A8C4F270050B37D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F040D7AF2A8C4F270050B37D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F040D7B62A8C52C40050B37D /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				F040D7AA2A8C4F260050B37D /* ContentView.swift */,
 				F040D7AC2A8C4F270050B37D /* Assets.xcassets */,
 				F040D7AE2A8C4F270050B37D /* Preview Content */,
+				F040D7B62A8C52C40050B37D /* ModalView.swift */,
 			);
 			path = "Git Project";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F040D7B72A8C52C40050B37D /* ModalView.swift in Sources */,
 				F040D7AB2A8C4F260050B37D /* ContentView.swift in Sources */,
 				F040D7A92A8C4F260050B37D /* Git_ProjectApp.swift in Sources */,
 			);
